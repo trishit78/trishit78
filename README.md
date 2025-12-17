@@ -1,56 +1,90 @@
-
-
-<!--
-**trishit78/trishit78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-<h1 align="center">Hi 👋, I'm Trishit Bhowmik</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" >
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=trishit78&label=Profile%20views&color=0e75b6&style=flat" alt="trishit78" /> </p>
-
-<!--
-<p align="left"> <a href="https://twitter.com/https://twitter.com/trishit_bhowmik" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/trishit_bhowmik?logo=twitter&style=for-the-badge" alt="https://twitter.com/trishit_bhowmik" /></a> </p>
--->
-
-- 🌱 I’m currently learning **React**
-
-- 👯 I’m looking to collaborate on **beginner level frontend projects**
-
-- 🤝 I’m looking for help with **React Projects**
-
-- 💬 Ask me about **HTML, CSS, JS, Open-Source, DSA**
-
-- 📫 How to reach me **trishit456@gmail.com**
-
-- ⚡ Fun fact **I am a Movie Buff.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/https://twitter.com/trishit_bhowmik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/trishit_bhowmik" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/trishit bhowmik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="trishit bhowmik" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/trishit_bhowmik/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/trishit_bhowmik/" height="30" width="40" /></a>
-<a href="https://discord.gg/Trishit#3279" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Trishit#3279" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=trishit78&label=Profile%20views&color=0e75b6&style=flat" alt="trishit78" style="display: inline-block;"/>
+  <a href="https://github.com/ellerbrock/open-source-badge/">
+    <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=102" alt="Open Source Love" style="display: inline-block;"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+```rust
+struct Dev {
+    name: &'static str,
+    role: &'static str,
+    langs: [&'static str; 3],
+}
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=trishit78&show_icons=true&locale=en&layout=compact" alt="trishit78" /></p>
+fn main() {
+    let me = Dev {
+        name: "Trishit Bhowmik",
+        role: "Full-Stack & Backend Engineer 👨‍💻",
+        langs: ["⚡ TypeScript", "🐹 Go","C++"],
+    };
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=trishit78&show_icons=true&locale=en" alt="trishit78" /></p>
+    println!("Hi, I'm {} 👋\n{}", me.name, me.role);
+    println!("I am currently into: {}", me.langs.join(", "));
+}
+```
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=trishit78&" alt="trishit78" /></p>
+- 🔗 I'm currently into distributed systems and AI automation.
+
+## 👨‍💻 About Me
+
+- 🔨 I build **real-world systems**, not demo projects
+- 💪 Strong in **backend, system design**, and **infra-aware frontend**
+- 🧠 Interested in how things work **under the hood** — databases, execution engines, real-time systems
+
+
+## Showcase : )
+
+### 🎯 Full-Stack Applications
+- [**CarePulse**](https://github.com/trishit78/carepulse) - A full-stack telemedicine platform with WebRTC video consultations, real-time appointment scheduling, and AI-powered medical assistance using OpenAI APIs. Built with Next.js, Node.js, MongoDB, Redis, and WebSockets.
+- [**API-Box**](https://github.com/trishit78/api-box) - A Postman-inspired API testing platform with multi-workspace support, Monaco Editor integration, and OAuth authentication. Built with Next.js 16, React 19, TypeScript, Prisma, and PostgreSQL.
+- [**Zaply**](https://github.com/trishit78/zaply) - A no-code visual workflow automation platform (n8n-like) with custom execution engine, conditional logic, and AI-powered nodes. Built with Next.js, TypeScript, ReactFlow, and OpenAI API.
+
+### ⚙️ Backend & Systems
+- [**RideFlow**](https://github.com/trishit78/rideflow) - An Uber-like backend clone with real-time ride matching, geo-spatial queries using Redis Geo and Haversine formula, Socket.IO for live updates, and JWT-based authentication.
+- [**AlgoQuest**](https://github.com/trishit78/algoquest) - A scalable code submission and evaluation platform with microservices architecture, Docker-based secure code execution for Python/C++, and async job processing using BullMQ and Redis.
+- [**LSM DB**](https://github.com/trishit78/lsm-db) - A high-performance key-value database in Go using LSM-tree architecture. Implements MemTable, SSTables, Write-Ahead Logging (WAL), background compaction, and crash recovery.
+## 🧠 Core Languages
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+
+## ⚛️ Frontend
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06b6d4?style=flat-square&logo=tailwind-css&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/-shadcn/ui-000000?style=flat-square&logo=shadcnui&logoColor=white)
+
+## 🧩 Backend & Systems
+
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![WebSockets](https://img.shields.io/badge/-WebSockets-010101?style=flat-square&logo=socket.io&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/-Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white)
+![WebRTC](https://img.shields.io/badge/-WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![BullMQ](https://img.shields.io/badge/-BullMQ-CC0000?style=flat-square&logo=redis&logoColor=white)
+
+## 🗄️ Databases & ORM
+
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Sequelize](https://img.shields.io/badge/-Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white)
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=trishit78&show_icons=true&count_private=true&theme=algolia" width="360"/>
+</p>
+
+---
+
+## 📬 Reach Me
+
+- **GitHub:** [@trishit78](https://github.com/trishit78)
+- Open to **backend / full-stack / systems-oriented roles**
